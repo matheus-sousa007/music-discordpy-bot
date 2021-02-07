@@ -19,8 +19,8 @@ Nome do Bot: MusicPlayerBot
 * Commands:
   * .connect: Connect the bot to the voice channel (You need to be connected to a voice channel)
   * .disconnect: Disconnect the bot from the voice channel.
-  * .play <url>: Play the music that it was in URL.
-  * .play <suggested-name-music>: Show a list of musics from Youtube for user choice
+  * .play url: Play the music that it was in URL.
+  * .play suggested-name-music: Show a list of musics from Youtube for user choice
   * .play (when the playback is paused): Resume playback.
   * .stop: Stop the music and clear the queue.
   * .pause: Pause playback
